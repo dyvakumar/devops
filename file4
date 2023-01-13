@@ -19,4 +19,6 @@ git pull origin remote branch is used to pull the files from remote mentioned to
 git merge branch name will merge the files from branch mentioned in the command to the branch in which this command is executed
 git touch file name will create a empty file
 vi file name will opens text editor
-
+to check the change or what was happened in a particular commit use "git show sha4 code{commit id" 
+if we want to compare between the commits meaning if we want check the changes between two commits we can use "git show HEAD~1" it will show changes btw head and next commit
+to check who made changes to a file "git annotate filename eg:git annotate file4"
