@@ -161,4 +161,4 @@ key_rules:
 # do not use space between the words if key has large string
 # use snake case which is _ between two words in a key for eg: dyva_kumar 
 # key always ends with :
-# 
+# duplicate keys must be avoided other wise it will be overwritten
