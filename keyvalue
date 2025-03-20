@@ -162,3 +162,5 @@ key_rules:
 # use snake case which is _ between two words in a key for eg: dyva_kumar 
 # key always ends with :
 # duplicate keys must be avoided other wise it will be overwritten
+# double quotes can be used 
+# dot notation also used 
