@@ -1,0 +1,3 @@
+This is the first time I am using my new mackbook air for practicing git in my local 
+so from this on , I will improve learning visual studio code for all code related work 
+in some time I will definitely become a pro in using visual studio code 
