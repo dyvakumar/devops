@@ -5,3 +5,5 @@ today I have learned about objects in .git folder
 importance of .git and what if .git folder is deleted 
 today I have understood another important usage of visual studio code 
 after we making changes in any config file then a new update symbol will be pop up and if we select and then it will show what is changed
+we need to observer one thing that, once we save the file after making changes then this modified file will be presented as changed file and asks us to stage it 
+once we click on + symbol then it will move this latest file to indexed/staged file and will ask us to commit 
