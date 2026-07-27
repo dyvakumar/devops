@@ -3,3 +3,5 @@ so from this on , I will improve learning visual studio code for all code relate
 in some time I will definitely become a pro in using visual studio code 
 today I have learned about objects in .git folder 
 importance of .git and what if .git folder is deleted 
+today I have understood another important usage of visual studio code 
+after we making changes in any config file then a new update symbol will be pop up and if we select and then it will show what is changed
